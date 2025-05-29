@@ -53,7 +53,7 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Portfolio: [shauryam.tech](https://shauryam.tech)
+- 🌐 Portfolio: [portfolio-shauryam.vercel.app](https://portfolio-shauryam.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/shauryam-singh](https://linkedin.com/in/shauryam-singh)
 - ✉️ Gmail: [shauryamsingh9@gmail.com](mailto:shauryamsingh9@gmail.com)
 
