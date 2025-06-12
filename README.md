@@ -51,6 +51,8 @@
 
 ---
 
+![snake gif](https://github.com/Shauryam-singh/Shauryam-singh/blob/output/github-snake-dark.svg)
+
 ### 🔗 Let's Connect
 
 - 🌐 Portfolio: [portfolio-shauryam.vercel.app](https://portfolio-shauryam.vercel.app/)
