@@ -37,9 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shauryam-singh&theme=radical&no-frame=false&no-bg=true&margin-w=10" />
-</p>
+![](https://github-trophies.vercel.app/?username=shauryam-singh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
