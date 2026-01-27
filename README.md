@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shauryam-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Shauryam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryam-singh&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Shauryam's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shauryam-singh&theme=dark&hide_border=false" alt="Shauryam's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shauryam-singh&theme=radical&hide_border=true" alt="Shauryam's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryam-singh&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Shauryam's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryam-singh&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Shauryam's Top Languages" />
 </p>
 
 ---
